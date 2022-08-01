@@ -1,0 +1,9 @@
+"./src/PID.obj"
+"./src/car.obj"
+"./src/distance.obj"
+"./src/led.obj"
+"./src/main.obj"
+"./src/uart.obj"
+"./src/xunji.obj"
+"../lnk_msp430g2553.cmd"
+-llibc.a
